@@ -1,2 +1,2 @@
-# jmfrippiat.github.io
+# frippiat.com
 Hello world!
